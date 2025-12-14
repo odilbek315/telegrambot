@@ -1,1 +1,2 @@
-python bybit.py
+websockets==12.0
+requests==2.31.0
