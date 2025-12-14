@@ -1,1 +1,1 @@
-touch requirements.txt
+python bybit.py
