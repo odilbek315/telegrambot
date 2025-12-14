@@ -1,1 +1,1 @@
-worker: python bybit_bot.py
+worker: python bybit.py
